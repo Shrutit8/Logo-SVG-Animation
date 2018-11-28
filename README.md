@@ -9,7 +9,9 @@ SVG is an XML file format designed to create vector graphics. Being scalable it 
 # text-to-svg
 
 For generating SVG from any text install 
-```npm install text-to-svg
+```
+npm install text-to-svg
+
 ```
 
 
